@@ -1,4 +1,4 @@
-export class panelNota{
+export class PanelNota{
     constructor(alto, ancho){
         this.panel=document.createElement("div");
         this.panel.style.width=ancho;
